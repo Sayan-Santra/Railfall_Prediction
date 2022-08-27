@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MOBILE_DATA_MODE_NEW" id="3BA210A8-1790-CC2D-65F4-7DE40E681AC4" version="3.5">
+<createdBy>sayan.santra</createdBy>
+<createdTime>2022-08-12 06:15:49 UTC</createdTime>
+<ownerDesignName>MOBILE_DATA_MODE_NEW</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>3BA210A8-1790-CC2D-65F4-7DE40E681AC4</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="4523DC46-12B4-1E48-DEEF-12F662BAD435">
+<designStoragePath>C:\DATAMODEL</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="122D684A-95F1-74D3-6FEE-581D7E796AE1">
+<designStoragePath>C:\DATAMODEL</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="3BA210A8-1790-CC2D-65F4-7DE40E681AC4">
+<designStoragePath>D:\DATA_MODEL\EMP_DATA_MODEL_NEW</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="FC115C80-79B4-A6D3-2CD5-3E5BC0012DD3">
+<designStoragePath>C:\Mobile_DDL</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
